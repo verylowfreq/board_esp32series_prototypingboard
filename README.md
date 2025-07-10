@@ -16,7 +16,9 @@ The prototyping board with ESP32-C3 or ESP32-S3.
 
 ![Schematics for ESP32-C3 board](ESP32C3_Schematics.jpg)
 
-**マニュアル** [Page 1](ESP32C3_Manual_P1.jpg), [Page 2](ESP32C3_Manual_P2.jpg)
+**マニュアル / Manual** [Page 1](ESP32C3_Manual_P1.jpg), [Page 2](ESP32C3_Manual_P2.jpg)
+
+**サンプルプログラム / Sample program** [Checkprogram](esp32c3_checkprogram/esp32c3_checkprogram.ino)
 
 ## ESP32-S3 プロトタイプ基板
 
@@ -24,7 +26,9 @@ The prototyping board with ESP32-C3 or ESP32-S3.
 
 ![Schematics for ESP32-S3 board](ESP32S3_Schematics.jpg)
 
-**マニュアル** [Page 1](ESP32S3_Manual_P1.jpg), [Page 2](ESP32S3_Manual_P2.jpg)
+**マニュアル / Manual** [Page 1](ESP32S3_Manual_P1.jpg), [Page 2](ESP32S3_Manual_P2.jpg)
+
+**サンプルプログラム / Sample program** [Checkprogram](esp32s3_checkprogram/esp32s3_checkprogram.ino)
 
 ## LICENSE
 
